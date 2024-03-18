@@ -32,7 +32,7 @@
           </select>
         </div>
         <div class="col-auto">
-          <button type="submit" class="btn btn-outline-info text-uppercase fw-bold">Search</button>
+          <button type="submit" class="btn btn-outline-warning text-uppercase fw-bold text-white">Search</button>
         </div>
       </div>
     </form>
